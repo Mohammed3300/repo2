@@ -1,2 +1,79 @@
+
 something - Mohammed
+
+user stories:
+ 
+1. To test user registration and login - 2 story points
+2. Product browsing and details page - 5 story points
+3. To test Checkout and orders. - 2 story points
+4. test user profile - 3 story points
+5. ratings and reviews. - 1 story point.
+
+user story 1:
+As a user I want to be able to enter my email and phone on the registration and login page. so that I get into the login page. 
+
+Acceptance criteria: 
+.
+Given I have the user registration and login page I will enter my email and password to signup and login
+when I enter my password incorrectly I will test if its throwing an incorrect password message. 
+then I will try login with my otp 
+and check if its securely logging in to the website. 
+
+estimation : 3 story points
+
+user story 2:
+
+As a user I want to be able to test the list of products and a search bar to search the product and details
+so that I can add the orders to my cart. 
+
+acceptance criteria:
+
+Given I have the product browsing and detail page 
+when I search a product in the search bar it should navigate to the product details page
+then I can view the product specifics 
+and product availability.
+
+estimation: 5 story points
+
+user story 3 :
+As a user I want to be able to test by adding products 
+to the check out page so that it will take me to the 
+payments page and place an order. 
+
+acceptance criteria:
+
+given I have tested the check out page and payments page
+when I add the products to the checkout page it should navigate me
+to the checkout 
+then if clicked on place order it should navigate to payment page 
+and upon successful payment place an order. 
+
+estimation: 3 story points
+
+user story 4: 
+
+as a user i want to be able to test the user profile page so that
+i can manage addresses and view order history. 
+
+acceptance criteria:
+
+given I have the user profile page 
+when i add my address  
+then I will test to see if it is updating my address 
+and showing my order history.
+
+estimation: 2 story points
+
+user story 5:
+as a user I want to be able to test if i can add my review and feedback without 
+being a registered user and being a registered user. 
+
+acceptance criteria:
+
+Given I have the ratings and feedback page. 
+when I leave a review without being a user it should not take the review 
+and when I leave a review as a user
+then my review should be updated. 
+
 something, 23-05-2025
+
